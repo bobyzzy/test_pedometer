@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479659299830",
+    "project_id": "test-pedometer-app-own",
+    "storage_bucket": "test-pedometer-app-own.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479659299830:android:5b4280dacd5fabe276edd7",
+        "android_client_info": {
+          "package_name": "com.example.pedometer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479659299830-2pl29ffasotar0qfpfsscntqinaunno5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedometer_app",
+            "certificate_hash": "3247bc6898eb7f4efe69701326b99e3708dc61cd"
+          }
+        },
+        {
+          "client_id": "479659299830-iogvfrb3pfcdec80tf8bq8am4nhkjtmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDovtDS_Z7RpLfZqlyvLMsKPBDx7wX0CmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479659299830-iogvfrb3pfcdec80tf8bq8am4nhkjtmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
